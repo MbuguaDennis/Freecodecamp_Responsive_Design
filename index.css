@@ -1,0 +1,7 @@
+/* Css styling page */
+/* Resetting page to defaults 
+**with box-sizing to border-box
+ */
+ *{
+    box-sizing: border-box;
+ }
